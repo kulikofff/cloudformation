@@ -1,6 +1,5 @@
 # --------------------------------------------------------------------------------------------------
 # CloudFormation Network Layer: VPC, Subnets + RouteTables, Internet + NAT Gateways
-# Author: Denis Astahov
 #
 # Version      Date           Name                Info
 # 1.0          26-Nov-2017    Denis Astahov       Initial Version
